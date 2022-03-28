@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
+  theme_day: Strawberry
+  theme_night: Dark
   font: minimal
   font_size: L
 
@@ -19,9 +19,9 @@ marketing:
     local_business_type: ''
     org_name: ''
     description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    twitter: 'ire_cannistraci'
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-F942T5PW1W'
     baidu_tongji: ''
   verification:
     google: ''
@@ -106,3 +106,5 @@ extensions:
     enable: true
   academicons:
     enable: true
+
+# #F86497

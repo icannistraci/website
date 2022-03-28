@@ -1,0 +1,34 @@
+.grade {
+    font-size: 14px;
+    color: gray;
+}
+
+.gpa {
+    font-size: 14px;
+    color: gray;
+    font-style: italic;
+
+}
+
+
+.box{
+  flex: 1 1 auto;
+  display: flex;
+  white-space: pre-wrap;
+  flex-flow: row nowrap;
+  justify-content: left;
+  align-content: left;
+  align-items: left;
+}
+
+div.spacer
+{
+    font-size: 0;
+    height: 0px;
+    width: 0.5rem;
+}
+
+
+.image-hq {
+    image-rendering: high-quality;
+}
