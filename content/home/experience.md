@@ -42,6 +42,9 @@ experience:
     date_start: '2017-06-01'
     date_end: '2019-02-15'
     description: |2-
+        * Designing and implementing RESTful Messaging APIs for Telecom
+        * Designing and implementing several applications (backend and frontend) for Enel
+        * Interacting face-to-face with customers
 design:
   columns: '2'
 ---
