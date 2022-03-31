@@ -30,9 +30,7 @@ experience:
     date_start: '2020-06-01'
     date_end: ''
     description: |2-   
-        * Online coding lessons for high-school students
-          * CO.ME.SE (COde&FraME for Self Empowerment) Project
-          * CodinGirls Project
+        * Online coding lessons for high-school students for CO.ME.SE (COde\&FraME for Self Empowerment) and CodinGirls Projects
 
   - title: Tutor
     company: Unitelma Sapienza
@@ -42,8 +40,7 @@ experience:
     date_start: '2021-11-01'
     date_end: ''
     description: |2-   
-        * Help students learn more about the university world and, in particular, the computer science department
-        * Provide an interface between students and professors
+        * Help students learn more about the university and provide an interface between them and the professors
  
   - title: Software Developer Engineer
     company: NTT Data 
@@ -53,9 +50,13 @@ experience:
     date_start: '2017-06-01'
     date_end: '2019-02-15'
     description: |2-
-        * Designing and implementing RESTful Messaging APIs for Telecom
-        * Designing and implementing several applications (backend and frontend) for Enel
-        * Interacting face-to-face with customers
+        * RESTful APIs - Telecom
+         * Develop a microservices architecture to revise an outdated monolithic platform for messaging. Scalability and high reliability were guaranteed by the Openshift platform, meanwhile real-time tracking and quick troubleshooting by Elasticsearch
+        * Internal Portals (ServiceNow) - Enel
+         * eProfile: employees use the service to create their profiles, insert their job-related information, and apply to open internal positions
+         * OneClick: employees adopt it to open issue tickets, request devices, software licenses, etc.
+         * Global Travel: Global Travel: employees adopt it to insert travel requests
+
 design:
   columns: '2'
 ---
