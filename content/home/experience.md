@@ -51,11 +51,11 @@ experience:
     date_end: '2019-02-15'
     description: |2-
         * RESTful APIs - Telecom
-         * Develop a microservices architecture to revise an outdated monolithic platform for messaging. Scalability and high reliability were guaranteed by the Openshift platform, meanwhile real-time tracking and quick troubleshooting by Elasticsearch
+          * Develop a microservices architecture to revise an outdated monolithic platform for messaging. Scalability and high reliability were guaranteed by the Openshift platform, meanwhile real-time tracking and quick troubleshooting by Elasticsearch
         * Internal Portals (ServiceNow) - Enel
-         * eProfile: employees use the service to create their profiles, insert their job-related information, and apply to open internal positions
-         * OneClick: employees adopt it to open issue tickets, request devices, software licenses, etc.
-         * Global Travel: Global Travel: employees adopt it to insert travel requests
+          * eProfile: employees use the service to create their profiles, insert their job-related information, and apply to open internal positions
+          * OneClick: employees adopt it to open issue tickets, request devices, software licenses, etc.
+          * Global Travel: Global Travel: employees adopt it to insert travel requests
 
 design:
   columns: '2'
