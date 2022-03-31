@@ -42,9 +42,8 @@ experience:
     date_start: '2021-11-01'
     date_end: ''
     description: |2-   
-        * Help students learn more about the university world and, in particular, the computer science department.
+        * Help students learn more about the university world and, in particular, the computer science department
         * Provide an interface between students and professors
-        * Helping students to navigate between the various offices, finalize the registration, access the course pages, etc.
  
   - title: Software Developer Engineer
     company: NTT Data 

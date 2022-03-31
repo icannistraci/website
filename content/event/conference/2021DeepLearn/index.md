@@ -7,7 +7,7 @@ event_url: https://irdta.eu/deeplearn2021s/
 external_link: https://irdta.eu/deeplearn2021s/
 
 location: |2-
-  Las Palmas de Gran Canaria, Spain
+  Virtual
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
