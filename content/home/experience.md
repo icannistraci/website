@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Tutor
+  - title: Teacher
     company: Fondazione Mondo Digitale 
     company_url: 'https://www.mondodigitale.org/it'
     company_logo: mondodigitale
@@ -34,6 +34,18 @@ experience:
           * CO.ME.SE (COde&FraME for Self Empowerment) Project
           * CodinGirls Project
 
+  - title: Tutor
+    company: Unitelma Sapienza
+    company_url: 'https://www.international.unitelmasapienza.it/'
+    company_logo: unitelma
+    location: Italy
+    date_start: '2021-11-01'
+    date_end: ''
+    description: |2-   
+        * Help students learn more about the university world and, in particular, the computer science department.
+        * Provide an interface between students and professors
+        * Helping students to navigate between the various offices, finalize the registration, access the course pages, etc.
+ 
   - title: Software Developer Engineer
     company: NTT Data 
     company_url: 'https://it.nttdata.com/'
