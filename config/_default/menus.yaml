@@ -13,7 +13,7 @@ main:
   - name: Experience
     url: '#experience'
     weight: 30
-  - name: Awards
+  - name: Awards and Scholarships
     url: '#awards'
     weight: 40
 #  - name: Projects

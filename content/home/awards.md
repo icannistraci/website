@@ -11,7 +11,7 @@ weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 # title: 'Accomplish&shy;ments'
-title: 'Awards'
+title: 'Awards and Scholarships'
 subtitle:
 
 # Date format
@@ -49,6 +49,24 @@ item:
   organization: Zonta International
   organization_url: https://www.zonta.org/
   title: 2021 Zonta International Women in Technology Scholarship
+  url: ""
+
+- certificate_url:
+  date_end: "2017-03-01"
+  date_start: "2014-09-01"
+  description: "Scholarship for academic merits sponsored by Sapienza to fully cover the B.S. tuition fees."
+  organization: DISCO Lazio - Regional Body for Right to Education and Knowledge
+  organization_url: https://www.uniroma1.it/en/pagina/scholarships
+  title: Lazio DiSCo Scholarship
+  url: ""
+
+- certificate_url:
+  date_end: "2020-09-01"
+  date_start: "2020-01-01"
+  description: "Scholarship for collaborate with university structures such as libraries and laboratories."
+  organization: La Sapienza
+  organization_url: https://www.uniroma1.it/en/pagina/scholarships
+  title: Student-Collaboration Scholarship
   url: ""
 
 design:
