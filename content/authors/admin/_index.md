@@ -83,10 +83,10 @@ email: ""
 highlight_name: true
 ---
 
-I am a Ph.D. student in Computer Science at the Sapienza University of Rome in the VisionLab research group. 
+I am a Ph.D. student in Computer Science at the Sapienza University of Rome in the VisionLab research group.
 My research interests are widespread, focusing on **deep learning**, ranging from time-series to image analysis, especially in **healthcare**.
 
-I strongly believe in multidisciplinary **collaborations** to merge bits of knowledge. I love the opportunity to use computer science technologies to understand people's needs better and apply computer science to **improve their lives**.
+I strongly believe in multidisciplinary **collaborations** to merge bits of knowledge. I love using computer science technologies to understand people’s needs better and apply computer science to **improve their lives**.
 
 I am also involved in **educational activities** to disseminate coding and digital skills to students, particularly young women.
 
