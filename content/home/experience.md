@@ -27,7 +27,7 @@ experience:
     company_url: 'https://www.mondodigitale.org/it'
     company_logo: mondodigitale
     location: Italy
-    date_start: '2017-06-01'
+    date_start: '2020-06-01'
     date_end: ''
     description: |2-   
         * Online coding lessons for high-school students
