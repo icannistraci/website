@@ -25,7 +25,16 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - certificate_url:
-  date_end: ""
+  date_end: "2022-06-17"
+  date_start: "2022-06-15"
+  description: "Fellowship funded by Grid.ai to participate at first-ever Lightning Developer Conference."
+  organization: Grid.ai
+  organization_url: https://www.grid.ai
+  title: Grid.ai Scholarship
+  url: "https://twitter.com/PyTorchLightnin/status/1535689376172105728"
+
+- certificate_url:
+  date_end: "2021-11-05"
   date_start: "2021-11-03"
   description: "Fellowship funded by JPMorgan to participate at the 3rd ACM International Conference on AI in Finance."
   organization: JPMorgan Chase & Co
@@ -36,7 +45,7 @@ item:
 - certificate_url:
   date_end: ""
   date_start: "2021-10-21"
-  description: "Fellowship funded by JPMorgan to participate at the Informatici Senza Frontiere 2021 Festival."
+  description: "Fellowship funded by Aused to participate at the Informatici Senza Frontiere 2021 Festival."
   organization: Aused
   organization_url: http://www.aused.org/
   title: Aused / Festival Informatici Senza Frontiere Scholarship
@@ -45,11 +54,11 @@ item:
 - certificate_url:
   date_end: ""
   date_start: "2022-03-01"
-  description: "The Women in Technology Scholarships are awarded to women of any age and nationality, pursuing an information technology (IT) degree at an accredited university/college/institute, who demonstrate outstanding potential in the field."
+  description: "Zonta International awarded 20 international scholarships of US$8,000 to women of any age and nationality, pursuing an IT degree at an accredited university, who demonstrate outstanding potential in the field."
   organization: Zonta International
   organization_url: https://www.zonta.org/
   title: 2021 Zonta International Women in Technology Scholarship
-  url: ""
+  url: "https://www.zonta.org/Web/Our_Programs/Education/Women_in_Technology_Scholarship/Web/Programs/Education/Women_in_Technology_Scholarship.aspx?hkey=93b52ab5-ef2f-401b-8774-b6143ad02da1"
 
 - certificate_url:
   date_end: "2017-03-01"
