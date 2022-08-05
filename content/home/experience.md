@@ -27,10 +27,11 @@ experience:
     company_url: 'https://www.mondodigitale.org/it'
     company_logo: mondodigitale
     location: Italy
-    date_start: '2020-06-01'
-    date_end: ''
+    date_start: '2020-11-01'
+    date_end: '2022-01-01'
     description: |2-   
         * Online coding lessons for high-school students for CO.ME.SE (COde\&FraME for Self Empowerment) and CodinGirls Projects
+        * Role Model for "La Notte dei Ricercatori 2020" and "STEM\#4TeenGirls" the Erasmus+ Project for Scuole CEFA inRome, Bilbao and Prague
 
   - title: Tutor
     company: Unitelma Sapienza
