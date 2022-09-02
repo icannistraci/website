@@ -51,14 +51,14 @@ item:
   title: JPMorgan / ICAIF Fellowship
   url: ""
 
-- certificate_url:
-  date_end: ""
-  date_start: "2021-10-21"
-  description: "Fellowship funded by Aused to participate at the Informatici Senza Frontiere 2021 Festival."
-  organization: Aused
-  organization_url: http://www.aused.org/
-  title: Aused / Festival Informatici Senza Frontiere Scholarship
-  url: ""
+# - certificate_url:
+#   date_end: ""
+#   date_start: "2021-10-21"
+#   description: "Fellowship funded by Aused to participate at the Informatici Senza Frontiere 2021 Festival."
+#   organization: Aused
+#   organization_url: http://www.aused.org/
+#   title: Aused / Festival Informatici Senza Frontiere Scholarship
+#   url: ""
 
 - certificate_url:
   date_end: ""
@@ -78,14 +78,14 @@ item:
   title: Lazio DiSCo Scholarship
   url: ""
 
-- certificate_url:
-  date_end: "2020-09-01"
-  date_start: "2020-01-01"
-  description: "Scholarship for collaborate with university structures such as libraries and laboratories."
-  organization: La Sapienza
-  organization_url: https://www.uniroma1.it/en/pagina/scholarships
-  title: Student-Collaboration Scholarship
-  url: ""
+# - certificate_url:
+#   date_end: "2020-09-01"
+#   date_start: "2020-01-01"
+#   description: "Scholarship for collaborate with university structures such as libraries and laboratories."
+#   organization: La Sapienza
+#   organization_url: https://www.uniroma1.it/en/pagina/scholarships
+#   title: Student-Collaboration Scholarship
+#   url: ""
 
 design:
   columns: '2' 

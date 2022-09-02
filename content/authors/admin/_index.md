@@ -19,9 +19,10 @@ bio: I am a Ph.D. student passionate about Artificial Intelligence applications 
 # Interests to show in About widget
 interests:
 - Artificial Intelligence
-- Computer Vision
 - Deep Learning
+- Computer Vision
 - Medical Image Analysis
+- UAVs
 
 # Education to show in About widget
 education:
