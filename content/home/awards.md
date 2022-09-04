@@ -27,7 +27,7 @@ item:
 - certificate_url:
   date_end: "2022-06-17"
   date_start: "2022-06-15"
-  description: "Fellowship funded by Bending Spoons to participate at first-ever Lightning Developer Conference."
+  description: "Fellowship funded by Grid AI to participate at first-ever Lightning Developer Conference."
   organization: Grid.ai
   organization_url: https://www.grid.ai
   title: Grid.ai Scholarship
@@ -36,7 +36,7 @@ item:
 - certificate_url:
   date_end: ""
   date_start: "2022-07-22"
-  description: "Fellowship funded by Grid.ai to participate at Symposium on Artificial Intelligence"
+  description: "Fellowship funded by Bending Spoons to participate at Symposium on Artificial Intelligence"
   organization: Bending Spoons
   organization_url: https://bendingspoons.comgo
   title: Bending Spoons Scholarship
