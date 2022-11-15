@@ -24,6 +24,16 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+
+- certificate_url:
+  date_end: ""
+  date_start: "2022-11-09"
+  description: "Research grant for young researchers and Ph.D. students."
+  organization: Sapienza University of Rome
+  organization_url: https://www.uniroma1.it/en/pagina/scholarships
+  title: Avvio alla Ricerca
+  url: ""
+
 - certificate_url:
   date_end: "2022-06-17"
   date_start: "2022-06-15"
