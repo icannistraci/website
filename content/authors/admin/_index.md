@@ -22,15 +22,15 @@ interests:
 - Deep Learning
 - Computer Vision
 - Medical Image Analysis
-- UAVs
 
 # Education to show in About widget
 education:
   courses:
   - course: Ph.D. in Computer Science
+    year: current
     institution: Sapienza University of Rome
     institution_url: https://www.uniroma1.it/it/
-    logo: visionlab.svg
+    logo: sapienza.svg
     padding_logo: 1
 
   - course: M.S. in Computer Science

@@ -28,16 +28,16 @@ item:
 - certificate_url:
   date_end: ""
   date_start: "2022-11-09"
-  description: "Research grant for young researchers and Ph.D. students."
+  description: "Research grant for young researchers and Ph.D. students"
   organization: Sapienza University of Rome
-  organization_url: https://www.uniroma1.it/en/pagina/scholarships
+  organization_url: https://www.uniroma1.it/en/pagina/sapienza-research-calls-0
   title: Avvio alla Ricerca
   url: ""
 
 - certificate_url:
   date_end: "2022-06-17"
   date_start: "2022-06-15"
-  description: "Fellowship funded by Grid AI to participate at first-ever Lightning Developer Conference."
+  description: "Fellowship funded by Grid AI to participate at first-ever Lightning Developer Conference"
   organization: Grid.ai
   organization_url: https://www.grid.ai
   title: Grid.ai Scholarship
@@ -55,7 +55,7 @@ item:
 - certificate_url:
   date_end: "2021-11-05"
   date_start: "2021-11-03"
-  description: "Fellowship funded by JPMorgan to participate at the 3rd ACM International Conference on AI in Finance."
+  description: "Fellowship funded by JPMorgan to participate at the 3rd ACM International Conference on AI in Finance"
   organization: JPMorgan Chase & Co
   organization_url: https://www.jpmorganchase.com/
   title: JPMorgan / ICAIF Fellowship
