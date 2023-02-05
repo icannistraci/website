@@ -16,6 +16,9 @@ main:
   - name: Awards and Scholarships
     url: '#awards'
     weight: 40
+  - name: Publications
+    url: '#publications'
+    weight: 50
 #  - name: Projects
 #    url: '#projects'
 #    weight: 50
@@ -24,13 +27,10 @@ main:
 #    weight: 60
   - name: Attended
     url: '#attended'
-    weight: 50
-#  - name: Publications
-#    url: '#featured'
-#    weight: 50
+    weight: 60
   - name: Contact
     url: '#contact'
-    weight: 60
+    weight: 70
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
