@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Informare sull'Informatica
 
 event: SSAS Talk

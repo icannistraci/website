@@ -10,11 +10,13 @@ role: Ph.D. Student in Computer Science, Sapienza University of Rome
 
 # Organizations/Affiliations to show in About widget
 organizations:
+- name: GLADIA Research Group
+  url: https://gladia.di.uniroma1.it
 - name: VisionLab Research Group
   url: http://visionlab.di.uniroma1.it/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Ph.D. student passionate about Artificial Intelligence applications in Healthcare.
+bio: I am a Ph.D. student passionate about Artificial Intelligence.
 
 # Interests to show in About widget
 interests:
@@ -83,11 +85,11 @@ email: ""
 highlight_name: true
 ---
 
-I am a Ph.D. student in Computer Science at the Sapienza University of Rome in the VisionLab research group.
+I am a Ph.D. student in Computer Science at the Sapienza University of Rome in the VisionLab and GLADIA research group.
 My research interests are widespread, focusing on **deep learning**, ranging from time-series to image analysis, especially in **healthcare**.
 
-I strongly believe in multidisciplinary **collaborations** to merge bits of knowledge. I love using computer science technologies to understand people’s needs better and apply computer science to **improve their lives**.
+I strongly believe in multidisciplinary **collaborations** to merge bits of knowledge. I love using computer science technologies to understand people’s needs better and apply computer science to improve their lives.
 
-I am also involved in **educational activities** to disseminate coding and digital skills to students, particularly young women.
+I am also involved in **educational activities** to disseminate coding and digital skills to students, particularly young women. 
 
 In my free time, I enjoy being involved in different sports such as weightlifting, mountain biking, climbing, and hiking. I also like reading, traveling, meeting new people, and listening to their life stories.
