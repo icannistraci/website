@@ -10,7 +10,7 @@ headless: true
 weight: 40
 
 title: Publications
-subtitle: ''
+subtitle: 
 
 content:
   # Page type to display. E.g. post, talk, publication...
