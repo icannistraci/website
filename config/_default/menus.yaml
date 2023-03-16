@@ -12,13 +12,13 @@ main:
 #    weight: 20
   - name: Experience
     url: '#experience'
-    weight: 30
+    weight: 20
   - name: Awards and Scholarships
     url: '#awards'
-    weight: 40
+    weight: 30
   - name: Publications
     url: '#publications'
-    weight: 50
+    weight: 40
 #  - name: Projects
 #    url: '#projects'
 #    weight: 50
@@ -27,10 +27,10 @@ main:
 #    weight: 60
   - name: Attended
     url: '#attended'
-    weight: 60
+    weight: 50
   - name: Contact
     url: '#contact'
-    weight: 70
+    weight: 60
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
