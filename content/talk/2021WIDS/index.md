@@ -1,12 +1,12 @@
 ---
 draft: false
-title: 
+title: Panelist for WiDS Rome Event
 
-event: Introduction to Artificial Intelligence
+event: 
 event_url: 
-external_link: 
+external_link: https://gpp-code.github.io/wids_rome/
 
-location: Sapienza School of Advanced Studies (SSAS), Rome
+location: Women In Data Science Rome Event, Virtual
 address:
   city: 
   country: 
@@ -16,7 +16,7 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-01-18T15:00:00Z'
+date: '2021-06-24T16:30:00Z'
 date_end: 
 all_day: true
 
@@ -40,7 +40,7 @@ links:
 #   url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
-url_slides: "https://www.canva.com/design/DAE4aTL-G-M/QhyvLcQAjx-3xZBqOAUSSg/view?utm_content=DAE4aTL-G-M&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"
+url_slides: ""
 url_video: ""
 
 # Markdown Slides (optional).
