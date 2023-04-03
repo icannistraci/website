@@ -2,11 +2,11 @@
 draft: false
 title: 
 
-event: Course of Introduction to programming with Python
+event: Problems With the Analysis of Large Collections of Electronic Health Records
 event_url: 
 external_link: 
 
-location: Sapienza School of Advanced Studies (SSAS), Rome
+location: Data Science Innovation in Diabetes Webinar, Virtual
 address:
   city: 
   country: 
@@ -16,7 +16,7 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-01-18T15:00:00Z'
+date: '2021-06-08T16:30:00Z'
 date_end: 
 all_day: true
 

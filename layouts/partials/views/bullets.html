@@ -1,0 +1,65 @@
+{{ $item := .item }}
+
+{{/* Dynamic view adjusts to content type. */}}
+{{ $icon := "fa-solid fa-bolt-lightning" }}
+{{ $show_authors := true }}
+{{ $link := $item.RelPermalink }}
+{{ $target := "" }}
+{{ if $item.Params.external_link }}
+{{ $link = $item.Params.external_link }}
+{{ $target = "target=\"_blank\" rel=\"noopener\"" }}
+{{ end }}
+
+{{ if $item.Params.icon }}
+{{ $icon = $item.Params.icon }}
+{{ end }}
+
+{{ $has_attachments := partial "functions/has_attachments" $item }}
+
+<div class="view-list view-list-item">
+    <div class="bullet-title">
+        <i class={{ $icon }}></i>
+        <a href="{{$link}}" {{ $target | safeHTMLAttr }} style="color: inherit;">{{ $item.Title }}</a>
+
+        <!-- {{ $item.Params.title  | markdownify}} -->
+    </div>
+
+    {{ if $item.Params.event }}
+    <span class="event-subtitle">
+        {{ $item.Params.event }}
+    </span>
+    {{ end }}
+
+    <div class="article-metadata">
+        <span>
+            {{ partial "functions/get_event_dates" $item }}
+        </span>
+        {{ with $item.Params.location }}
+        <span class="middot-divider"></span>
+        <span>{{ . }}</span>
+        {{ end }}
+        {{ with $item.Params.hosted }}
+        <span class="middot-divider"></span>
+        <span class="bullet-hosted">{{ . }}</span>
+        {{ end }}
+    </div>
+
+    {{ if and $show_authors $item.Params.authors }}
+    <div class="article-metadata">
+        {{ partial "page_metadata_authors" $item }}
+    </div>
+    {{ end }}
+
+    {{ if $has_attachments }}
+    <div class="btn-links">
+        {{ partial "page_links" (dict "page" $item "is_list" 1) }}
+    </div>
+    {{ end }}
+
+
+</div>
+
+<!--
+Reference:
+https://github.com/wowchemy/wowchemy-hugo-themes/tree/f55ff594c0f63899a8af893f33bd62ceb77cc8fd/modules/wowchemy/layouts/partials/views
+-->

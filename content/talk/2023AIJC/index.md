@@ -1,22 +1,22 @@
 ---
 draft: false
-title: 
+title: Communicating between latent spaces with limited semantic correspondence
 
-event: Course of Introduction to programming with Python
+event: 
 event_url: 
-external_link: 
+external_link: https://aitrentojc.github.io/
 
-location: Sapienza School of Advanced Studies (SSAS), Rome
+location: Artificial Intelligence Trento Journal Club, Trento 
 address:
-  city: 
-  country: 
+  city: Trento
+  country: Italy
 
 summary:
 abstract: 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-01-18T15:00:00Z'
+date: '2023-03-31T00:00:00Z'
 date_end: 
 all_day: true
 
@@ -39,8 +39,8 @@ links:
 #   name: Follow
 #   url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: ""
-url_slides: ""
+url_pdf: "https://arxiv.org/pdf/2303.00721.pdf"
+url_slides: "https://icannistraci.github.io/ao-presentation/"
 url_video: ""
 
 # Markdown Slides (optional).
