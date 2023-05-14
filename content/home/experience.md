@@ -22,6 +22,16 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Teaching Assistant
+    company: Deep Learning & Applied AI @Sapienza
+    company_url: 'https://erodola.github.io/DLAI-s2-2023/'
+    company_logo: sapienza
+    location: Italy
+    date_start: '2023-02-01'
+    date_end: ''
+    description: |2-   
+        * Lecturer and mentor for the Deep Learning MSc course.
+
   - title: Tutor
     company: Unitelma Sapienza
     company_url: 'https://www.international.unitelmasapienza.it/'
