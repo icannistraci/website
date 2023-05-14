@@ -22,7 +22,7 @@ bio: I am a Ph.D. student passionate about Artificial Intelligence.
 interests:
 - Artificial Intelligence
 - Deep Learning
-- Computer Vision
+- Representation Learning
 - Medical Image Analysis
 
 # Education to show in About widget
@@ -85,11 +85,10 @@ email: ""
 highlight_name: true
 ---
 
-I am a Ph.D. student in Computer Science at the Sapienza University of Rome in the VisionLab and GLADIA research group.
-My research interests are widespread, focusing on **deep learning**, ranging from time-series to image analysis, especially in **healthcare**.
+I'm Irene, a Ph.D. student in Computer Science at the Sapienza University of Rome, affiliated with the GLADIA and VisionLab research groups.
 
-I strongly believe in multidisciplinary **collaborations** to merge bits of knowledge. I love using computer science technologies to understand people’s needs better and apply computer science to improve their lives.
+My research journey has spanned deep learning, allowing me to explore diverse areas such as time-series and image analysis. Lately, I've been particularly focused on **representation learning** and its applications in **healthcare**.
 
-I am also involved in **educational activities** to disseminate coding and digital skills to students, particularly young women. 
+I strongly believe that collaboration is the key to innovation, and I thrive in multidisciplinary teamwork. I enjoy combining knowledge from different domains to gain fresh insights!
 
-In my free time, I enjoy being involved in different sports such as weightlifting, mountain biking, climbing, and hiking. I also like reading, traveling, meeting new people, and listening to their life stories.
+When I'm not immersed in research papers and code, you'll often find me pursuing my adventurous side. I'm an enthusiast of various sports, such as weightlifting, mountain biking, climbing, and hiking!
