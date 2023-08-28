@@ -23,12 +23,22 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Teaching Assistant
-    company: Deep Learning & Applied AI @Sapienza
+    company: Data Science in Action @ LUISS Guido Carli University
+    company_url: ''
+    company_logo: luiss
+    location: Italy
+    date_start: '2023-09-01'
+    date_end: ''
+    description: |2-   
+        * Lecturer and mentor for the Data Science in Action MSc course.
+
+  - title: Teaching Assistant
+    company: Deep Learning & Applied AI @ Sapienza University of Rome
     company_url: 'https://erodola.github.io/DLAI-s2-2023/'
     company_logo: sapienza
     location: Italy
     date_start: '2023-02-01'
-    date_end: ''
+    date_end: '2023-06-01'
     description: |2-   
         * Lecturer and mentor for the Deep Learning MSc course.
 
