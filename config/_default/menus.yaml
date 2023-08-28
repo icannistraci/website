@@ -16,21 +16,21 @@ main:
   - name: Publications
     url: '#publications'
     weight: 30
-#  - name: Projects
-#    url: '#projects'
-#    weight: 50
+  - name: Posters
+    url: '#posters'
+    weight: 40
   - name: Talks
     url: '#talks'
-    weight: 40
+    weight: 50
   - name: Awards and Scholarships
     url: '#awards'
-    weight: 50
+    weight: 60
   - name: Attended
     url: '#attended'
-    weight: 60
+    weight: 70
   - name: Contact
     url: '#contact'
-    weight: 70
+    weight: 80
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.

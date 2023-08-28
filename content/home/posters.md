@@ -2,25 +2,26 @@
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
+active: true
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 70
+weight: 40
 
-title: 'Attended'
+title: Posters
 subtitle:
 
 content:
   # Page type to display. E.g. post, event, publication...
-  page_type: event
+  page_type: poster
   # Choose how many pages you would like to display (0 = all pages)
-  count: 6
+  count: 5
   # Filter on criteria
   filters:
     author: ""
-    category: "attended"
+    category: ""
     tag: ""
     exclude_featured: false
     exclude_future: false
@@ -31,19 +32,11 @@ content:
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
 
-  archive:
-    # enable: true
-    text: See all
-    # link: post/
-
 design:
   # Choose a view for the listings:
   #   1 = List
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 1
-
-
-active: true
+  view: bullets
 ---
