@@ -1,18 +1,18 @@
 ---
-title: 3rd ACM International Conference on AI in Finance (ICAIF)
+title: The Fortieth International Conference on Machine Learning (ICML)
 
-event: 3rd ACM International Conference on AI in Finance (ICAIF)
+event: The Fortieth International Conference on Machine Learning (ICML)
 
-event_url: https://ai-finance.org/icaif21/
-external_link: https://ai-finance.org/icaif21/
+event_url: https://icml.cc/
+external_link: https://icml.cc/
 
 location: |2-
-  Virtual
+  Honolulu
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2021-11-03T00:00:00Z'
-date_end: '2021-11-05T00:00:00Z'
+date: '2023-07-23T00:00:00Z'
+date_end: '2023-07-29T00:00:00Z'
 all_day: true
 
 # Schedule page publish date (NOT talk date).

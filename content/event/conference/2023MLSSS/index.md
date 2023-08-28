@@ -1,18 +1,18 @@
 ---
-title: Mediterranean Machine Learning Summer School (M2L)
+title: Machine Learning Summer School on Applications in Science (MLSSS)
 
-event: Mediterranean Machine Learning Summer School (M2L)
+event: Machine Learning Summer School on Applications in Science (MLSSS)
 
-event_url: https://www.m2lschool.org/
-external_link: https://www.m2lschool.org/
+event_url: https://mlss2023.mlinpl.org/
+external_link: https://mlss2023.mlinpl.org/
 
 location: |2-
-  Milan, Italy
+   Krakow, Poland
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-10-12T00:00:00Z'
-date_end: '2022-10-16T00:00:00Z'
+date: '2023-06-26T00:00:00Z'
+date_end: '2023-07-02T00:00:00Z'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
