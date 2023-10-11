@@ -11,7 +11,7 @@ weight: 60
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 # title: 'Accomplish&shy;ments'
-title: 'Grants and Scholarships'
+title: 'Awards'
 subtitle:
 
 # Date format
@@ -28,52 +28,43 @@ item:
 - certificate_url:
   date_end: ""
   date_start: "2022-11-09"
-  description: "Research grant for young researchers and Ph.D. students"
+  description: "Research grant of **EUR1000** for young researchers and Ph.D. students"
   organization: Sapienza University of Rome
   organization_url: https://www.uniroma1.it/en/pagina/sapienza-research-calls-0
   title: Avvio alla Ricerca
   url: ""
 
-- certificate_url:
-  date_end: "2022-06-17"
-  date_start: "2022-06-15"
-  description: "Fellowship funded by Grid AI to participate at first-ever Lightning Developer Conference"
-  organization: Grid.ai
-  organization_url: https://www.grid.ai
-  title: Grid.ai Scholarship
-  url: "https://twitter.com/PyTorchLightnin/status/1535689376172105728"
-
-- certificate_url:
-  date_end: ""
-  date_start: "2022-07-22"
-  description: "Fellowship funded by Bending Spoons to participate at Symposium on Artificial Intelligence"
-  organization: Bending Spoons
-  organization_url: https://bendingspoons.comgo
-  title: Bending Spoons Scholarship
-  url: "https://synapsesymposium.aibend"
-
-- certificate_url:
-  date_end: "2021-11-05"
-  date_start: "2021-11-03"
-  description: "Fellowship funded by JPMorgan to participate at the 3rd ACM International Conference on AI in Finance"
-  organization: JPMorgan Chase & Co
-  organization_url: https://www.jpmorganchase.com/
-  title: JPMorgan / ICAIF Fellowship
-  url: ""
+# - certificate_url:
+#   date_end: "2022-06-17"
+#   date_start: "2022-06-15"
+#   description: "Fellowship funded by Grid AI to participate at first-ever Lightning Developer Conference"
+#   organization: Grid.ai
+#   organization_url: https://www.grid.ai
+#   title: Grid.ai Scholarship
+#   url: "https://twitter.com/PyTorchLightnin/status/1535689376172105728"
 
 # - certificate_url:
 #   date_end: ""
-#   date_start: "2021-10-21"
-#   description: "Fellowship funded by Aused to participate at the Informatici Senza Frontiere 2021 Festival."
-#   organization: Aused
-#   organization_url: http://www.aused.org/
-#   title: Aused / Festival Informatici Senza Frontiere Scholarship
+#   date_start: "2022-07-22"
+#   description: "Fellowship funded by Bending Spoons to participate at Symposium on Artificial Intelligence"
+#   organization: Bending Spoons
+#   organization_url: https://bendingspoons.comgo
+#   title: Bending Spoons Scholarship
+#   url: "https://synapsesymposium.aibend"
+
+# - certificate_url:
+#   date_end: "2021-11-05"
+#   date_start: "2021-11-03"
+#   description: "Fellowship funded by JPMorgan to participate at the 3rd ACM International Conference on AI in Finance"
+#   organization: JPMorgan Chase & Co
+#   organization_url: https://www.jpmorganchase.com/
+#   title: JPMorgan / ICAIF Fellowship
 #   url: ""
 
 - certificate_url:
   date_end: ""
   date_start: "2022-03-01"
-  description: "Zonta International awarded 20 international scholarships of US$8,000 to women of any age and nationality, pursuing an IT degree at an accredited university, who demonstrate outstanding potential in the field."
+  description: "Zonta International awarded 20 international scholarships of **US$8,000** to women of any age and nationality, pursuing an IT degree at an accredited university, who demonstrate outstanding potential in the field."
   organization: Zonta International
   organization_url: https://www.zonta.org/
   title: 2021 Zonta International Women in Technology Scholarship
