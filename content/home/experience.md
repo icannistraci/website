@@ -52,7 +52,7 @@ experience:
     description: |2-   
         * Help students learn more about the university and provide an interface between them and the professors
 
-  - title: Teacher
+  - title: Coding Teacher
     company: Fondazione Mondo Digitale 
     company_url: 'https://www.mondodigitale.org/it'
     company_logo: mondodigitale
