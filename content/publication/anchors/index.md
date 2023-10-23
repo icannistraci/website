@@ -40,5 +40,5 @@ abstract: 'The use of relative representations for latent embeddings has shown p
 publication: 'Tiny Papers @ ICLR 2023'
 links:
 - name: URL
-  url : https://openreview.net/forum?id=VBuUL2IWlq
+  url : https://openreview.net/pdf?id=VBuUL2IWlq
 ---
