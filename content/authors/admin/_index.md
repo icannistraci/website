@@ -12,8 +12,8 @@ role: Ph.D. Student in Computer Science, Sapienza University of Rome
 organizations:
 - name: GLADIA Research Group
   url: https://gladia.di.uniroma1.it
-- name: VisionLab Research Group
-  url: http://visionlab.di.uniroma1.it/
+# - name: VisionLab Research Group
+#   url: http://visionlab.di.uniroma1.it/
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a Ph.D. student passionate about Artificial Intelligence.
@@ -32,7 +32,7 @@ education:
     year: current
     institution: Sapienza University of Rome
     institution_url: https://www.uniroma1.it/it/
-    logo: sapienza.svg
+    logo: gladia.svg
     padding_logo: 1
 
   - course: M.S. in Computer Science
@@ -85,7 +85,7 @@ email: ""
 highlight_name: true
 ---
 
-I'm Irene, a Ph.D. student in Computer Science at the Sapienza University of Rome, affiliated with the GLADIA and VisionLab research groups.
+I'm Irene, a Ph.D. student in Computer Science at the Sapienza University of Rome, and I’m part of the Gladia research group led by Professor Emanuele Rodolà.
 
 My research journey has spanned deep learning, allowing me to explore diverse areas such as time-series and image analysis. Lately, I've been particularly focused on **representation learning** and its applications in **healthcare**.
 
