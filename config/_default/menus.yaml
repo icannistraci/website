@@ -5,33 +5,32 @@
 
 main:
   - name: Home
-    url: '#about'
+    url: "#about"
     weight: 10
-#  - name: Posts
-#    url: '#posts'
-#    weight: 20
+  #  - name: Posts
+  #    url: '#posts'
+  #    weight: 20
   - name: Experience
-    url: '#experience'
+    url: "#experience"
     weight: 20
   - name: Publications
-    url: '#publications'
+    url: "#publications"
     weight: 30
   - name: Posters
-    url: '#posters'
+    url: "#posters"
     weight: 40
   - name: Talks
-    url: '#talks'
+    url: "#talks"
     weight: 50
-  - name: Awards and Scholarships
-    url: '#awards'
+  - name: Awards
+    url: "#awards"
     weight: 60
   - name: Attended
-    url: '#attended'
+    url: "#attended"
     weight: 70
   - name: Contact
-    url: '#contact'
+    url: "#contact"
     weight: 80
-
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
 #  - name: CV
