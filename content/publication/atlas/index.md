@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'From Charts to Atlas: Merging Latent Spaces into One]{From Charts to Atlas: Merging Latent Spaces into One'
+title: 'From Charts to Atlas: Merging Latent Spaces into One'
 subtitle: ''
 summary: ''
 authors:
