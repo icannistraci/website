@@ -16,14 +16,14 @@ organizations:
 #   url: http://visionlab.di.uniroma1.it/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Ph.D. student passionate about Artificial Intelligence.
+bio: I am a Ph.D. student in Computer Science passionate about Deep Learning.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
 - Deep Learning
 - Representation Learning
-- Medical Image Analysis
+- Computer Vision
+- Model Re-use 
 
 # Education to show in About widget
 education:
@@ -85,10 +85,10 @@ email: ""
 highlight_name: true
 ---
 
-I'm Irene, a Ph.D. student in Computer Science at the Sapienza University of Rome, and I’m part of the Gladia research group led by Professor Emanuele Rodolà.
+I'm Irene, a Ph.D. student in Computer Science at the Sapienza University of Rome, and I’m part of the Gladia research group led by Prof. Emanuele Rodolà.
 
-My research journey has spanned deep learning, allowing me to explore diverse areas such as time-series and image analysis. Lately, I've been particularly focused on **representation learning** and its applications in **healthcare**.
+My research journey has spanned deep learning, allowing me to explore diverse areas such as time-series and image analysis. Lately, I've been particularly focused on **representation learning**. 
 
-I strongly believe that collaboration is the key to innovation, and I thrive in multidisciplinary teamwork. I enjoy combining knowledge from different domains to gain fresh insights!
+Specifically I am working on analyzing and understanding when different neural networks generate similar latent spaces, and identifying the class of transformation arising in these latent spaces. This exploration is oriented towards model re-use encompassing diverse modalities ranging from vision to graph models.
 
 When I'm not immersed in research papers and code, you'll often find me pursuing my adventurous side. I'm an enthusiast of various sports, such as weightlifting, mountain biking, climbing, and hiking!
