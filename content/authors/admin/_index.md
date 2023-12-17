@@ -87,8 +87,9 @@ highlight_name: true
 
 I'm Irene, a Ph.D. student in Computer Science at the Sapienza University of Rome, and I’m part of the Gladia research group led by Prof. Emanuele Rodolà.
 
-My research journey has spanned deep learning, allowing me to explore diverse areas such as time-series analysis and computer vision. Lately, I've been particularly focused on **representation learning**. 
+My research journey has allowed me to explore diverse areas of deep learning, such as time-series analysis and computer vision. Lately, I've been particularly focused on **representation learning**. 
 
-Specifically I am working on analyzing and understanding when different neural networks generate similar latent spaces, and identifying the class of transformation arising in these latent spaces. This exploration is oriented towards model re-use encompassing diverse modalities ranging from vision to text.
+I am working on analyzing and understanding when different neural networks generate similar latent spaces, and identifying the class of transformations arising between these latent spaces. This exploration is oriented towards **model re-use** encompassing
+diverse modalities such as vision, text, and graphs.
 
 When I'm not immersed in research papers and code, you'll often find me pursuing my adventurous side. I'm an enthusiast of various sports, such as weightlifting, mountain biking, climbing, and hiking!
