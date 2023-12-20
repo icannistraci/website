@@ -4,20 +4,19 @@ title: "From Bricks to Bridges: Product of Invariances to Enhance Latent Space C
 
 event: 
 event_url: 
-external_link: "https://sanborn.notion.site/NeurReps-2023-8dbfec6cd1bc4b95a627db2a1edbd836"
+external_link: https://www.neurreps.org/
 
-location: NeurReps @ NeurIPS 2023, New Orleans, Louisiana
-address: 
+location: NeurReps Oral @ NeurIPS 2023, New Orleans
+address:
   city: New Orleans
   country: Louisiana
 
 summary:
 abstract: 
 
-
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-12-16T15:00:00Z'
+date: '2023-12-16T00:00:00Z'
 date_end: 
 all_day: true
 
@@ -40,8 +39,8 @@ links:
 #   name: Follow
 #   url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: "https://openreview.net/pdf?id=QcxL26Y23o"
-url_poster: "https://drive.google.com/file/d/1cDjq-zcaQTdd6LvBynRSPB-I9JeU75Yz/view?usp=sharing"
+url_pdf: "https://arxiv.org/pdf/2310.01211.pdf"
+url_slides: "https://icannistraci.github.io/bridge-animations/"
 url_video: ""
 
 # Markdown Slides (optional).
