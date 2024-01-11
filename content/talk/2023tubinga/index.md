@@ -1,23 +1,22 @@
 ---
 draft: false
-title: "Infusing invariances in neural representations"
+title: Unifying neural representations by infusing invariances
 
 event: 
 event_url: 
-external_link: "https://www.tagds.com/events/conference-workshops/tag-ml23"
+external_link: ""
 
-location: 2nd Annual TAG in Machine Learning @ ICML2023, Honolulu, HI
+location: Tübingen AI center, Germany
 address: 
-  city: Honolulu
-  country: Hawaii
+  city: Tübingen
+  country: Germany
 
 summary:
 abstract: 
 
-
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-07-28T15:00:00Z'
+date: '2023-07-22T15:00:00Z'
 date_end: 
 all_day: true
 
@@ -40,8 +39,8 @@ links:
 #   name: Follow
 #   url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: "https://openreview.net/pdf?id=mCm4iiNoNc"
-url_poster: "https://drive.google.com/file/d/18c93MuC4t9o8yxA_BQ8IjUvZAuVXK92h/view"
+url_pdf: ""
+url_slides: ""
 url_video: ""
 
 # Markdown Slides (optional).

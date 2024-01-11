@@ -1,23 +1,22 @@
 ---
 draft: false
-title: "Infusing invariances in neural representations"
+title: "From Bricks to Bridges: Product of Invariances to Enhance Latent Space Communication"
 
 event: 
 event_url: 
-external_link: "https://www.tagds.com/events/conference-workshops/tag-ml23"
+external_link: https://www.neurreps.org/
 
-location: 2nd Annual TAG in Machine Learning @ ICML2023, Honolulu, HI
-address: 
-  city: Honolulu
-  country: Hawaii
+location: NeurReps Oral @ NeurIPS 2023, New Orleans
+address:
+  city: New Orleans
+  country: Louisiana
 
 summary:
 abstract: 
 
-
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-07-28T15:00:00Z'
+date: '2023-12-16T00:00:00Z'
 date_end: 
 all_day: true
 
@@ -40,8 +39,8 @@ links:
 #   name: Follow
 #   url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: "https://openreview.net/pdf?id=mCm4iiNoNc"
-url_poster: "https://drive.google.com/file/d/18c93MuC4t9o8yxA_BQ8IjUvZAuVXK92h/view"
+url_pdf: "https://arxiv.org/pdf/2310.01211.pdf"
+url_slides: "https://icannistraci.github.io/bridge-animations/"
 url_video: ""
 
 # Markdown Slides (optional).
