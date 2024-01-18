@@ -2,8 +2,8 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: 'Bootstrapping Parallel Anchors for Relative Representations'
-subtitle: ''
-summary: ''
+subtitle: 'Tiny Paper @ ICLR 2023'
+summary: 'Tiny Paper @ ICLR 2023'
 authors:
 - admin
 - Luca Moschella

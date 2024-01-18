@@ -2,8 +2,8 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: 'From Charts to Atlas: Merging Latent Spaces into One'
-subtitle: ''
-summary: ''
+subtitle: 'NeurReps @ NeurIPS 2023'
+summary: 'NeurReps @ NeurIPS 2023'
 authors:
 - Donato Crisostomi
 - admin
