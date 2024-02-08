@@ -6,13 +6,13 @@ title: Irene Cannistraci
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Student in Computer Science, Sapienza University of Rome
+role: Ph.D. Student in Computer Science, Sapienza University of Rome <br/> [GLADIA Research Group](https://gladia.di.uniroma1.it)  <br/> <br/> Visiting Researcher Student, <br/> Helmholtz Munich <br/> [AIDOS Lab](https://aidos.group/)
 
 # Organizations/Affiliations to show in About widget
-organizations:
-- name: GLADIA Research Group
-  url: https://gladia.di.uniroma1.it
-# - name: VisionLab Research Group
+# organizations:
+# - name: GLADIA Research Group
+#   url: https://gladia.di.uniroma1.it
+# # - name: VisionLab Research Group
 #   url: http://visionlab.di.uniroma1.it/
 
 # Short bio (displayed in user profile at end of posts)
