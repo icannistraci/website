@@ -22,11 +22,21 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Visiting Research Student
+    company: Institute of AI for Health @ Helmholtz Pioneer Campus
+    company_url: 'https://www.helmholtz-munich.de/en/aih'
+    company_logo: helmholtz
+    location: Munich, Germany
+    date_start: '2024-02-01'
+    date_end: ''
+    description: |2-   
+        * Visiting student in the [AIDOS Lab](https://aidos.group/) under the supervision of [Prof. Bastian Rieck](https://bastian.rieck.me/), conducting research at the intersection of representation learning and topology.
+
   - title: Teaching Assistant
     company: Data Science in Action @ LUISS Guido Carli University
     company_url: ''
     company_logo: luiss
-    location: Italy
+    location: Rome, Italy
     date_start: '2023-09-01'
     date_end: ''
     description: |2-   
@@ -36,7 +46,7 @@ experience:
     company: Deep Learning & Applied AI @ Sapienza University of Rome
     company_url: 'https://erodola.github.io/DLAI-s2-2023/'
     company_logo: sapienza
-    location: Italy
+    location: Rome, Italy
     date_start: '2023-02-01'
     date_end: '2023-06-01'
     description: |2-   
@@ -46,7 +56,7 @@ experience:
     company: Unitelma Sapienza
     company_url: 'https://www.international.unitelmasapienza.it/'
     company_logo: unitelma
-    location: Italy
+    location: Rome, Italy
     date_start: '2021-11-01'
     date_end: ''
     description: |2-   
@@ -56,7 +66,7 @@ experience:
     company: Fondazione Mondo Digitale 
     company_url: 'https://www.mondodigitale.org/it'
     company_logo: mondodigitale
-    location: Italy
+    location: Rome, Italy
     date_start: '2020-11-01'
     date_end: '2022-01-01'
     description: |2-   
@@ -67,7 +77,7 @@ experience:
     company: NTT Data 
     company_url: 'https://it.nttdata.com/'
     company_logo: nttdata
-    location: Italy
+    location: Rome, Italy
     date_start: '2017-06-01'
     date_end: '2019-02-15'
     description: |2-
