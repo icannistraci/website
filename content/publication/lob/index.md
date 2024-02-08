@@ -3,7 +3,7 @@
 
 title: 'LOB-Based Deep Learning Models for Stock Price Trend Prediction: A Benchmark Study'
 subtitle: ''
-summary: ''
+summary: 'Preprint'
 authors:
 - Matteo Prata
 - Giuseppe Masi

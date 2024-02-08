@@ -4,7 +4,7 @@
 title: A Novel GAN-Based Anomaly Detection and Localization Method for Aerial Video
   Surveillance at Low Altitude
 subtitle: ''
-summary: ''
+summary: 'Remote Sensing'
 authors:
 - Danilo Avola
 - admin
@@ -46,5 +46,5 @@ abstract: 'The last two decades have seen an incessant growth in the use of Unma
 publication: '*Remote Sensing*'
 links:
 - name: URL
-  url : https://arxiv.org/pdf/2206.06182.pdf
+  url : https://www.mdpi.com/2072-4292/14/16/4110
 ---

@@ -3,7 +3,7 @@
 
 title: 'AI-based Data Preparation and Data Analytics in Healthcare: The Case of Diabetes'
 subtitle: ''
-summary: ''
+summary: 'Preprint'
 authors:
 - Marianna Maranghi
 - Aris Anagnostopoulos

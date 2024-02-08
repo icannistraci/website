@@ -3,7 +3,7 @@
 
 title: Real-Time GAN-Based Model for Underwater Image Enhancement
 subtitle: ''
-summary: ''
+summary: 'ICIAP 2023'
 authors:
 - Danilo Avola
 - admin
