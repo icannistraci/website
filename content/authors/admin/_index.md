@@ -87,7 +87,7 @@ highlight_name: true
 
 I'm Irene, a Ph.D. student in Computer Science at the Sapienza University of Rome, and I’m part of the [Gladia research group](https://gladia.di.uniroma1.it/) led by [Prof. Emanuele Rodolà](https://gladia.di.uniroma1.it/authors/rodola/).
 
-I'm currently a visiting research student in the [AIDOS Lab](https://aidos.group/) led by [Prof. Bastian Rieck](https://bastian.rieck.me/) at Institute of AI for Health, an institute of Helmholtz Munich!
+I'm currently a visiting research student in the [AIDOS Lab](https://aidos.group/) led by [Prof. Bastian Rieck](https://bastian.rieck.me/) at the Institute of AI for Health, an institute of Helmholtz Munich!
 
 My research journey has allowed me to explore diverse areas of deep learning, such as time-series analysis and computer vision.
 Lately, I’ve been particularly focused on **representation learning**. 
