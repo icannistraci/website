@@ -1,13 +1,13 @@
 ---
-title: The Fortieth International Conference on Machine Learning (ICML)
+title: The Fortieth International Conference on Machine Learning (ICML 2023)
 
-event: The Fortieth International Conference on Machine Learning (ICML)
+event: The Fortieth International Conference on Machine Learning (ICML 2023)
 
 event_url: https://icml.cc/
 external_link: https://icml.cc/
 
 location: |2-
-  Honolulu
+  Honolulu, Hawaii (USA)
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
