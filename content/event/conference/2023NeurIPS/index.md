@@ -1,7 +1,7 @@
 ---
-title: The hirty-seventh Annual Conference on Neural Information Processing Systems (NeurIPS 2023)
+title: The Thirty-seventh Annual Conference on Neural Information Processing Systems (NeurIPS 2023)
 
-event: The hirty-seventh Annual Conference on Neural Information Processing Systems (NeurIPS 2023)
+event: The Thirty-seventh Annual Conference on Neural Information Processing Systems (NeurIPS 2023)
 
 event_url: https://neurips.cc/
 external_link: https://neurips.cc/
