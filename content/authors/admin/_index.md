@@ -91,6 +91,6 @@ I'm currently a visiting research student in the [AIDOS Lab](https://aidos.group
 
 My research journey has allowed me to explore diverse areas of deep learning, such as time-series analysis and computer vision. Lately, I’ve been particularly focused on **representation learning**. 
 
-My recent research involves studying and analyzing how and why independent neural networks encode information similarly. This investigation enables the adaptation and reutilization of neural models, bypassing the demand for extensive retraining resources. It supports the exchange of knowledge between models and data modalities (i.e. text, vision and graphs), offering the capability to directly evaluate their performance within the latent space.
+My recent research involves studying and analyzing how and why independent neural networks encode information similarly. This investigation enables the adaptation and reutilization of neural models, bypassing the demand for extensive retraining resources. It supports the exchange of knowledge between models and data modalities (e.g., text, vision, and graphs), offering the capability to directly evaluate their performance within the latent space.
 
-When I'm not immersed in research papers and code, you'll often find me pursuing my adventurous side. I'm an enthusiast of various sports, such as weightlifting, mountain biking, climbing, and hiking!
+When I'm not working, you'll often find me exploring my adventurous side. I'm an enthusiast of various sports, including weightlifting, mountain biking, climbing, and hiking!
