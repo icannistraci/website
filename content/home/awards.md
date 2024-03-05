@@ -27,12 +27,30 @@ item:
 
 - certificate_url:
   date_end: ""
+  date_start: "2024-02-27"
+  description: "Research grant of **£2,000** to early career researchers in quantitative discipline"
+  organization: G-Research
+  organization_url: https://www.gresearch.com/
+  title: G-Research Grant for PhD Students in Quantitative Fields
+  url: https://www.gresearch.com/news/grants-for-phd-students-and-postdocs-in-quantitative-fields/
+
+- certificate_url:
+  date_end: ""
+  date_start: "2024-02-08"
+  description: "Three months (April-June) **fully-funded** research stay at the Institute of AI for Science, Helmholtz Munich"
+  organization: Helmholtz Information and Data Science Academy (HIDA)
+  organization_url: https://www.helmholtz-hida.de/en/
+  title: Helmholtz Visiting Researcher Grant
+  url: https://www.helmholtz-hida.de/en/new-horizons/hida-visiting-program/
+
+- certificate_url:
+  date_end: ""
   date_start: "2022-11-09"
-  description: "Research grant of **EUR1000** for young researchers and Ph.D. students"
+  description: "Research grant of **€1,000** for young researchers and Ph.D. students"
   organization: Sapienza University of Rome
-  organization_url: https://www.uniroma1.it/en/pagina/sapienza-research-calls-0
-  title: Avvio alla Ricerca
-  url: ""
+  organization_url: https://www.uniroma1.it/en
+  title: Kickstarting Research Funding
+  url: https://www.uniroma1.it/en/pagina/sapienza-research-calls-0
 
 # - certificate_url:
 #   date_end: "2022-06-17"
