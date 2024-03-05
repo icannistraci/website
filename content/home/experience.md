@@ -30,7 +30,7 @@ experience:
     date_start: '2024-02-01'
     date_end: ''
     description: |2-   
-        * Visiting student in the [AIDOS Lab](https://aidos.group/) under the supervision of [Prof. Bastian Rieck](https://bastian.rieck.me/), conducting research at the intersection of representation learning and topology.
+        * Visiting student in the [AIDOS Lab](https://aidos.group/) under the supervision of [Prof. Bastian Rieck](https://bastian.rieck.me/), conducting research at the intersection of representation learning, geometry and topology.
 
   - title: Teaching Assistant
     company: Data Science in Action @ LUISS Guido Carli University
