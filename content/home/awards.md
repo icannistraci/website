@@ -27,6 +27,15 @@ item:
 
 - certificate_url:
   date_end: ""
+  date_start: "2024-03-06"
+  description: "Travel grant of **€5,000** for junior researchers in the ELISE/ELLIS network"
+  organization: ELISE
+  organization_url: https://www.elise-ai.eu/
+  title: ELISE PhD & Postdoc Mobility Program
+  url: https://www.elise-ai.eu/work/mobility-phd-postdoc
+
+- certificate_url:
+  date_end: ""
   date_start: "2024-02-27"
   description: "Research grant of **£2,000** to early career researchers in quantitative discipline"
   organization: G-Research
