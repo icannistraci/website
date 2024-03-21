@@ -47,7 +47,7 @@ item:
   date_end: ""
   date_start: "2024-02-08"
   description: "Three months (April-June) **fully-funded** research stay at the Institute of AI for Science, Helmholtz Munich"
-  organization: Helmholtz Information and Data Science Academy (HIDA)
+  organization: Helmholtz Information and Data Science Academy
   organization_url: https://www.helmholtz-hida.de/en/
   title: Helmholtz Visiting Researcher Grant
   url: https://www.helmholtz-hida.de/en/new-horizons/hida-visiting-program/
