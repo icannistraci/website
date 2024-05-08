@@ -7,7 +7,7 @@
 
 appearance:
   theme_day: Rose
-  theme_night: Dark
+  # theme_night: Dark
   font: minimal
   font_size: M
 
