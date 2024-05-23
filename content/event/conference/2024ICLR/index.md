@@ -1,5 +1,5 @@
 ---
-event: The Twelfth International Conference on Learning Representations (ICLR 2024)
+title: The Twelfth International Conference on Learning Representations (ICLR 2024)
 
 event: The Twelfth International Conference on Learning Representations (ICLR 2024)
 
