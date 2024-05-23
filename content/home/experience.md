@@ -38,9 +38,9 @@ experience:
     company_logo: luiss
     location: Rome, Italy
     date_start: '2023-09-01'
-    date_end: ''
+    date_end: '2024-05-01'
     description: |2-   
-        * Lecturer and mentor for the Data Science in Action MSc course.
+        * Lectured and mentored 40+ students for the Data Science in Action MSc course, and designed and implemented the course lab sessions.
 
   - title: Teaching Assistant
     company: Deep Learning & Applied AI @ Sapienza University of Rome
@@ -50,7 +50,7 @@ experience:
     date_start: '2023-02-01'
     date_end: '2023-06-01'
     description: |2-   
-        * Lecturer and mentor for the Deep Learning MSc course.
+        * Lecturered and mentored 80+ students for the Deep Learning and Applied AI MSc course.
 
   - title: Tutor
     company: Unitelma Sapienza
@@ -81,6 +81,7 @@ experience:
     date_start: '2017-06-01'
     date_end: '2019-02-15'
     description: |2-
+        Developing multiple software for several international customers such as Enel and Telecom. Some examples:
         * RESTful APIs - Telecom
           * Develop a microservices architecture to revise an outdated monolithic platform for messaging. Scalability and high reliability were guaranteed by the Openshift platform, meanwhile real-time tracking and quick troubleshooting by Elasticsearch
         * Internal Portals (ServiceNow) - Enel
