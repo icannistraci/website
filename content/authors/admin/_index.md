@@ -23,6 +23,9 @@ interests:
 - Deep Learning
 - Representation Learning
 - Computer Vision
+- NLP
+- Foundation Models
+- Transformers
 - Model Re-use 
 
 # Education to show in About widget
