@@ -6,7 +6,7 @@ title: Irene Cannistraci
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Student in Computer Science, Sapienza University of Rome <br/> [GLADIA Research Group](https://gladia.di.uniroma1.it)  <br/> <br/> Visiting Researcher Student, Helmholtz Munich [AIDOS Lab](https://aidos.group/)
+role: Ph.D. Student in Computer Science, Sapienza University of Rome <br/> [GLADIA Research Group](https://gladia.di.uniroma1.it)  <br/> <br/> Visiting Researcher Student, Helmholtz AI [AIDOS Lab](https://aidos.group/)
 
 # Organizations/Affiliations to show in About widget
 # organizations:
@@ -23,10 +23,11 @@ interests:
 - Deep Learning
 - Representation Learning
 - Computer Vision
-- NLP
 - Foundation Models
 - Transformers
 - Model Re-use 
+- OOD Generalization
+- NLP
 
 # Education to show in About widget
 education:
@@ -88,12 +89,12 @@ email: ""
 highlight_name: true
 ---
 
-I'm Irene, a Ph.D. student in Computer Science at the Sapienza University of Rome, and I’m part of the [Gladia research group](https://gladia.di.uniroma1.it/) led by [Prof. Emanuele Rodolà](https://gladia.di.uniroma1.it/authors/rodola/).
-
-I'm currently a visiting research student in the [AIDOS Lab](https://aidos.group/) led by [Prof. Bastian Rieck](https://bastian.rieck.me/) at the Institute of AI for Health, an institute of Helmholtz Munich!
+I'm Irene, a Ph.D. student in Computer Science at the Sapienza University of Rome, and I’m part of the [Gladia research group](https://gladia.di.uniroma1.it/) led by [Prof. Emanuele Rodolà](https://gladia.di.uniroma1.it/authors/rodola/), and currently visiting the [AIDOS Lab](https://aidos.group/) led by [Prof. Bastian Rieck](https://bastian.rieck.me/) at the Institute of AI for Health, an institute of Helmholtz Munich!
 
 My research journey has allowed me to explore diverse areas of deep learning, such as time-series analysis and computer vision. Lately, I’ve been particularly focused on **representation learning**. 
 
 My recent research involves studying and analyzing how and why independent neural networks encode information similarly. This investigation enables the adaptation and reutilization of neural models, bypassing the demand for extensive retraining resources. It supports the exchange of knowledge between models and data modalities (e.g., text, vision, and graphs), offering the capability to directly evaluate their performance within the latent space.
+
+I am also involved in **educational activities** to disseminate coding and digital skills to students, particularly young women. Additionally, since 2022, I have been an honorary member of Zonta Italy, part of [Zonta International](https://www.zonta.org/), a global organization dedicated to empowering women through service and advocacy.
 
 When I'm not working, you'll often find me exploring my adventurous side. I'm an enthusiast of various sports, including weightlifting, mountain biking, climbing, and hiking!
