@@ -22,8 +22,8 @@ main:
   - name: Talks
     url: "#talks"
     weight: 50
-  - name: Awards
-    url: "#awards"
+  - name: Achievements
+    url: "#achievements"
     weight: 60
   - name: Attended
     url: "#attended"
