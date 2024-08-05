@@ -28,7 +28,7 @@ experience:
     company_logo: helmholtz
     location: Munich, Germany
     date_start: '2024-02-01'
-    date_end: ''
+    date_end: '2024-07-31'
     description: |2-   
         * Visiting student in the [AIDOS Lab](https://aidos.group/) under the supervision of [Prof. Bastian Rieck](https://bastian.rieck.me/), conducting research at the intersection of representation learning, geometry and topology.
 
