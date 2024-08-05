@@ -95,6 +95,6 @@ My research journey has allowed me to explore diverse areas of deep learning, su
 
 My recent research involves studying and analyzing how and why independent neural networks encode information similarly. This investigation enables the adaptation and reutilization of neural models, bypassing the demand for extensive retraining resources. It supports the exchange of knowledge between models and data modalities (e.g., text, vision, and graphs), offering the capability to directly evaluate their performance within the latent space.
 
-I am also involved in **educational activities** to disseminate coding and digital skills to students, particularly young women. Additionally, since 2022, I have been an honorary member of Zonta Italy, part of [Zonta International](https://www.zonta.org/), a global organization dedicated to empowering women through service and advocacy.
+I am also involved in **educational activities** to disseminate coding and digital skills to students, particularly young women. Since 2022, I have been an honorary member of Zonta Italy, part of [Zonta International](https://www.zonta.org/), a global organization dedicated to empowering women through service and advocacy.
 
 When I'm not working, you'll often find me exploring my adventurous side. I'm an enthusiast of various sports, including weightlifting, mountain biking, climbing, and hiking!
