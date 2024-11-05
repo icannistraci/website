@@ -11,7 +11,7 @@ weight: 60
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 # title: 'Accomplish&shy;ments'
-title: 'Awards'
+title: 'Achievements'
 subtitle:
 
 # Date format
@@ -25,6 +25,15 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 
+- certificate_url:
+  date_end: ""
+  date_start: "2024-12-01"
+  description: "Supported the ideation and organization of the second edition of the Unifying Representations in Neural Models Workshop. Coordinated reviewers and submissions on OpenReview."
+  organization: Unifying Representations in Neural Models (UniReps)
+  organization_url: https://unireps.org/
+  title: Program Chair at UniReps Workshop @ NeurIPS
+  url: https://unireps.org/2024/
+  
 - certificate_url:
   date_end: ""
   date_start: "2024-03-06"
