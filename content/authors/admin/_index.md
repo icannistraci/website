@@ -6,7 +6,7 @@ title: Irene Cannistraci
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Student in Computer Science, Sapienza University of Rome <br/> [GLADIA Research Group](https://gladia.di.uniroma1.it)  <br/> <br/> Visiting Researcher Student, Helmholtz AI [AIDOS Lab](https://aidos.group/)
+role: Ph.D. Student in Computer Science, Sapienza University of Rome <br/> [GLADIA Research Group](https://gladia.di.uniroma1.it)
 
 # Organizations/Affiliations to show in About widget
 # organizations:
@@ -89,7 +89,7 @@ email: ""
 highlight_name: true
 ---
 
-I'm Irene, a Ph.D. student in Computer Science at the Sapienza University of Rome, and I’m part of the [Gladia research group](https://gladia.di.uniroma1.it/) led by [Prof. Emanuele Rodolà](https://gladia.di.uniroma1.it/authors/rodola/), and currently visiting the [AIDOS Lab](https://aidos.group/) led by [Prof. Bastian Rieck](https://bastian.rieck.me/) at the Institute of AI for Health, an institute of Helmholtz Munich!
+I'm Irene, a Ph.D. student in Computer Science at the Sapienza University of Rome, and I’m part of the [Gladia research group](https://gladia.di.uniroma1.it/) led by [Prof. Emanuele Rodolà](https://gladia.di.uniroma1.it/authors/rodola/).
 
 My research journey has allowed me to explore diverse areas of deep learning, such as time-series analysis and computer vision. Lately, I’ve been particularly focused on **representation learning**. 
 
