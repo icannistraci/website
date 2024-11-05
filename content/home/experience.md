@@ -58,7 +58,7 @@ experience:
     company_logo: unitelma
     location: Rome, Italy
     date_start: '2021-11-01'
-    date_end: ''
+    date_end: '2024-08-31'
     description: |2-   
         * Help students learn more about the university and provide an interface between them and the professors
 
