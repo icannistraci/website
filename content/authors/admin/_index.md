@@ -6,7 +6,7 @@ title: Irene Cannistraci
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Student in Computer Science, Sapienza University of Rome <br/> [GLADIA Research Group](https://gladia.di.uniroma1.it)
+role: Postdoctoral researcher, ETH Zurich
 
 # Organizations/Affiliations to show in About widget
 # organizations:
@@ -16,7 +16,7 @@ role: Ph.D. Student in Computer Science, Sapienza University of Rome <br/> [GLAD
 #   url: http://visionlab.di.uniroma1.it/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Ph.D. student in Computer Science passionate about Deep Learning.
+bio: I am a Postdoctoral researcher passionate about Deep Learning.
 
 # Interests to show in About widget
 interests:
@@ -33,7 +33,8 @@ interests:
 education:
   courses:
   - course: Ph.D. in Computer Science
-    year: current
+    grade: "Summa Cum Laude"
+    year: Jan. 2025
     institution: Sapienza University of Rome
     institution_url: https://www.uniroma1.it/it/
     logo: gladia.svg
@@ -41,14 +42,14 @@ education:
 
   - course: M.S. in Computer Science
     grade: "110/110 with honors"
-    year: 2020
+    year: Oct. 2020
     institution: Sapienza University of Rome
     institution_url: https://www.uniroma1.it/it/
     logo: sapienza.svg
     padding_logo: 1
 
   - course: B.S. in Computer Science
-    year: 2017
+    year: Mar. 2017
     institution: Sapienza University of Rome
     institution_url: https://www.uniroma1.it/it/
     logo: sapienza.svg
@@ -89,7 +90,7 @@ email: ""
 highlight_name: true
 ---
 
-I'm Irene, a Ph.D. student in Computer Science at the Sapienza University of Rome, and I’m part of the [Gladia research group](https://gladia.di.uniroma1.it/) led by [Prof. Emanuele Rodolà](https://gladia.di.uniroma1.it/authors/rodola/).
+I'm Irene, a Postdoctoral researcher at ETH Zürich. Previously, I was a Ph.D. student at the Sapienza University of Rome, advised by [Prof. Emanuele Rodolà](https://gladia.di.uniroma1.it/authors/rodola/). During my Ph.D., I also visited Helmholtz Munich under the guidance of [Prof. Bastian Rieck](https://bastian.rieck.me/).
 
 My research journey has allowed me to explore diverse areas of deep learning, such as time-series analysis and computer vision. Lately, I’ve been particularly focused on **representation learning**. 
 
