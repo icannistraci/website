@@ -6,7 +6,7 @@ title: Irene Cannistraci
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral researcher, ETH Zurich
+role: Postdoctoral researcher, ETH Zürich
 
 # Organizations/Affiliations to show in About widget
 # organizations:
@@ -27,7 +27,6 @@ interests:
 - Multimodal
 - Transformers
 - Model Re-use 
-- NLP
 
 # Education to show in About widget
 education:
@@ -90,7 +89,7 @@ email: ""
 highlight_name: true
 ---
 
-I'm Irene, a Postdoctoral researcher at ETH Zürich. Previously, I was a Ph.D. student at the Sapienza University of Rome, advised by [Prof. Emanuele Rodolà](https://gladia.di.uniroma1.it/authors/rodola/). During my Ph.D., I also visited Helmholtz Munich under the guidance of [Prof. Bastian Rieck](https://bastian.rieck.me/).
+I'm Irene, a Postdoctoral researcher at ETH Zürich in the [MDS Group](https://mds.inf.ethz.ch/) led by [Prof. Julia Vogt](https://mds.inf.ethz.ch/team/detail/julia-vogt). Previously, I was a Ph.D. student at the Sapienza University of Rome, advised by [Prof. Emanuele Rodolà](https://gladia.di.uniroma1.it/authors/rodola/). During my Ph.D., I also visited Helmholtz Munich under the guidance of [Prof. Bastian Rieck](https://bastian.rieck.me/).
 
 My research journey has allowed me to explore diverse areas of deep learning, such as time-series analysis and computer vision. Lately, I’ve been particularly focused on **representation learning**. 
 
