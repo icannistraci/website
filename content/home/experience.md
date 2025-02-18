@@ -22,7 +22,17 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Visiting Research Student
+  - title: Postdoctoral Researcher
+    company: ETH Zürich
+    company_url: 'https://ethz.ch/en.html'
+    company_logo: eth
+    location: Zürich, Switzerland
+    date_start: '2025-02-17'
+    date_end: 
+    description: |2-   
+        * Postdoctoral researcher in the [Medical Data science Lab](https://mds.inf.ethz.ch/) led by [Prof. Julia Vogt](https://mds.inf.ethz.ch/team/detail/julia-vogt), working on representation learning and healthcare.
+
+  - title: Visiting Research Student  
     company: Institute of AI for Health @ Helmholtz Pioneer Campus
     company_url: 'https://www.helmholtz-munich.de/en/aih'
     company_logo: helmholtz
@@ -30,7 +40,7 @@ experience:
     date_start: '2024-02-01'
     date_end: '2024-07-31'
     description: |2-   
-        * Visiting student in the [AIDOS Lab](https://aidos.group/) under the supervision of [Prof. Bastian Rieck](https://bastian.rieck.me/), conducting research at the intersection of representation learning, geometry and topology.
+        * Visiting student in the [AIDOS Lab](https://aidos.group/) under the supervision of [Prof. Bastian Rieck](https://bastian.rieck.me/), conducting research at the intersection of representation learning and geometry.
 
   - title: Teaching Assistant
     company: Data Science in Action @ LUISS Guido Carli University
