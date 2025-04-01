@@ -24,7 +24,7 @@ interests:
 - Deep Learning
 - Computer Vision
 - Foundation Models
-- Multimodal
+- Multimodal Machine Learning
 - Transformers
 - Model Re-use 
 
@@ -32,7 +32,7 @@ interests:
 education:
   courses:
   - course: Ph.D. in Computer Science
-    grade: "Summa Cum Laude"
+    grade: "With Honors"
     year: Jan. 2025
     institution: Sapienza University of Rome
     institution_url: https://www.uniroma1.it/it/
