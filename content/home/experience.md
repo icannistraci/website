@@ -30,7 +30,7 @@ experience:
     date_start: '2025-02-17'
     date_end: 
     description: |2-   
-        * Postdoctoral researcher in the [Medical Data science Lab](https://mds.inf.ethz.ch/) led by [Prof. Julia Vogt](https://mds.inf.ethz.ch/team/detail/julia-vogt), working on representation learning and healthcare.
+        * Postdoctoral researcher in the [Medical Data science Lab](https://mds.inf.ethz.ch/) led by [Prof. Julia Vogt](https://mds.inf.ethz.ch/team/detail/julia-vogt), working on representation learning, multimodal machine learning and healthcare.
 
   - title: Visiting Research Student  
     company: Institute of AI for Health @ Helmholtz Pioneer Campus
