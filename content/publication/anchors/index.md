@@ -14,7 +14,7 @@ authors:
 tags: []
 categories: []
 date: '2023-03-01'
-lastmod: 2023-03-01T:26:44
+lastmod: 2023-03-01
 featured: false
 draft: false
 publication_short: ""
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-03-01T:26:44'
+publishDate: '2023-03-01'
 publication_types:
 - '2'
 abstract: 'The use of relative representations for latent embeddings has shown potential in enabling latent space communication and zero-shot model stitching across a wide range of applications. Nevertheless, relative representations rely on a certain amount of parallel anchors to be given as input, which can be impractical to obtain in certain scenarios. To overcome this limitation, we propose an optimization-based method to discover new parallel anchors from a limited number of seeds. Our approach can be used to find semantic correspondence between different domains, align their relative spaces, and achieve competitive results in several tasks.'

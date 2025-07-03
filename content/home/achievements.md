@@ -27,6 +27,15 @@ item:
 
 - certificate_url:
   date_end: ""
+  date_start: "2025-05-29"
+  description: "Ideation and organization of the ELLIS reading group 'ELLISxUniReps Speaker Series'."
+  organization: ELLIS and UniReps
+  organization_url: https://ellis.eu/reading-groups
+  title: Co-organizer of the ELLISxUniReps Speaker Series
+  url: https://unireps.org/speaker-series/
+  
+- certificate_url:
+  date_end: ""
   date_start: "2024-12-01"
   description: "Supported the ideation and organization of the second edition of the Unifying Representations in Neural Models Workshop. Coordinated reviewers and submissions on OpenReview."
   organization: Unifying Representations in Neural Models (UniReps)

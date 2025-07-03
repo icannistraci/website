@@ -13,6 +13,8 @@ appearance:
 
 # SEO
 
+googleAnalytics: "G-F942T5PW1W"
+
 marketing:
   seo:
     site_type: Person
@@ -20,9 +22,9 @@ marketing:
     org_name: ""
     description: "A highly-customizable Hugo academic resume theme powered by Wowchemy website builder."
     twitter: "ire_cannistraci"
-  analytics:
-    google_analytics: "G-F942T5PW1W"
-    baidu_tongji: ""
+  # analytics:
+  #   google_analytics: "G-F942T5PW1W"
+  #   baidu_tongji: ""
   verification:
     google: ""
     baidu: ""

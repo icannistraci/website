@@ -1,17 +1,21 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Detecting and Approximating Redundant Computational Blocks in Neural Networks'
+title: 'Foundation Models on a Budget: Approximating Blocks in Large Vision Models'
 subtitle: ''
 summary: 'Under Revision'
 authors:
 - admin
+- Simone Antonelli
+- Emanuele Palumbo
+- Thomas M. Sutter
 - Emanuele Rodolà
 - Bastian Rieck
+- Julia E. Vogt
 tags: []
 categories: []
-date: '2024-10-11'
-lastmod: 2023-10-02T:26:44
+date: '2024-10-07'
+lastmod: 2025-05-27
 featured: false
 draft: false
 publication_short: ""
@@ -30,12 +34,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-10-11T:26:44'
+publishDate: '2024-10-11'
 publication_types:
 - '3'
-abstract: 'Deep neural networks often learn similar internal representations, both across different models and within their own layers. While inter-network similarities have enabled techniques such as model stitching and merging, intra-network similarities present new opportunities for designing more efficient architectures. In this paper, we investigate the emergence of these internal similarities across different layers in diverse neural architectures, showing that similarity patterns emerge independently of the datataset used. We introduce a simple metric, Block Redundancy, to detect redundant blocks, providing a foundation for future architectural optimization methods. Building on this, we propose Redundant Blocks Approximation (RBA), a general framework that identifies and approximates one or more redundant computational blocks using simpler transformations. We show that the transformation  between two representations can be efficiently computed in closed-form, and it is enough to replace the redundant blocks from the network. RBA reduces model parameters and time complexity while maintaining good performance. We validate our method on classification tasks in the vision domain using a variety of pretrained foundational models and datasets.'
+abstract: 'Foundation Models have shown impressive performance in various tasks and domains, yet they require massive computational resources, raising concerns about accessibility and sustainability. Previous attempts to reduce foundation model size fall short of fully addressing the problem, as they end up increasing computational load through additional training steps. Recent works reveal that deep neural networks exhibit internal representation similarities. While inter-network similarities have enabled techniques such as model stitching and merging, intra-network similarities remain underexplored for improving efficiency. In this paper, we propose Transformer Blocks Approximation (TBA), a novel method that leverages intra-network similarities to identify and approximate transformer blocks in large vision models. TBA replaces these blocks using lightweight, closed-form transformations, without retraining or fine-tuning the rest of the model. The proposed method reduces the number of parameters while having minimal impact on the downstream task. We validate the effectiveness and generalizability of TBA through extensive experiments across multiple datasets (e.g., Imagenet-1k and CIFAR100) and state-of-the-art pretrained vision models (e.g, ViT, DiNO-v2, and DEiT).'
 publication: ''
 links:
 - name: URL
-  url : https://arxiv.org/pdf/2410.04941
+  url : https://arxiv.org/abs/2410.04941
 ---
