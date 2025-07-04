@@ -33,7 +33,16 @@ item:
   organization_url: https://ellis.eu/reading-groups
   title: Co-organizer of the ELLISxUniReps Speaker Series
   url: https://unireps.org/speaker-series/
-  
+
+- certificate_url:
+  date_end: ""
+  date_start: "2025-02-17"
+  description: "Co-leader of CSNOW, an organization at ETH D-INFK that aims to improve the representation of women."
+  organization: CSNOW
+  organization_url: https://csnow.inf.ethz.ch/en/
+  title: Co-leader of CSNOW at ETH
+  url: https://csnow.inf.ethz.ch/en/team/
+
 - certificate_url:
   date_end: ""
   date_start: "2024-12-01"
